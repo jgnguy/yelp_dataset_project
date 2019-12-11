@@ -1,5 +1,3 @@
-# yelp_dataset_project
-
 # Capstone Project - Yelp Dataset
 This is our Capstone Project for our Big Data and Cloud Computing class. We used the Yelp dataset (http://www.yelp.com/dataset_challenge) and wanted to find the best city to go to for each Yelp category. For example, find the city with the best hamburgers, bookstores, arcades, etc. This was ran using a Hadoop cluster on AWS EMR and utilized Amazon S3 for storage. 
 
