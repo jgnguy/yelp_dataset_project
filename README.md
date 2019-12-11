@@ -7,7 +7,7 @@ First, in order to run our programs, one must have an AWS account and create an 
 
 Then, store the mapper and reducer programs and the business.json and review.json files within the Yelp dataset inside the bucket.
 
-Next, create a cluster on AWS EMR, specifically choosing to create a Hadoop cluster.
+Next, navigate to EMR and create a cluster on AWS EMR, specifically choosing to create a Hadoop cluster.
 
 After the cluster initializes, go to Steps. Press on the 'Add Step' button and specify the 'Step type' to 'Streaming program'.
 
