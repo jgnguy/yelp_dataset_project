@@ -5,7 +5,7 @@ This is our Capstone Project for our Big Data and Cloud Computing class. We used
 ## Running MapReduce
 First, in order to run our programs, one must have an AWS account and create an S3 bucket.
 
-Then, store the mapper and reducer programs and the business.json and review.json files within the Yelp dataset.
+Then, store the mapper and reducer programs and the business.json and review.json files within the Yelp dataset inside the bucket.
 
 Next, create a cluster on AWS EMR, specifically choosing to create a Hadoop cluster.
 
